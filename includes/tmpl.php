@@ -53,6 +53,16 @@
 		</div>
 
 		<div class="preamble" id="zen-preamble" role="article">
+			<h3>En image</h3>
+			<p>
+				<figure>
+					<img src='/avant-apres-css.jpg' style='width:100%;' alt='En images, amazon 25 avant. hitek.fr, dossier spécial 25 ans.' />
+					<figcaption>En images, amazon 25 avant. hitek.fr, dossier spécial 25 ans.</figcaption>
+				</figure>
+			</p>
+		</div>
+
+		<div class="preamble" id="zen-preamble" role="article">
 			<h3><?php echo $intro["preamble-h3"]; ?></h3>
 			<p><?php echo $intro["preamble-p1"]; ?></p>
 			<p><?php echo $intro["preamble-p2"]; ?></p>
@@ -65,6 +75,16 @@
 			<h3><?php echo $main["explanation-h3"]; ?></h3>
 			<p><?php echo $main["explanation-p1"]; ?></p>
 			<p><?php echo $main["explanation-p2"]; ?></p>
+		</div>
+
+		<div role="article" class="explanation" role="article">
+			<h3>En vidéo</h3>
+			<figure>
+				<video controls style='width:100%' >
+					<source src='/video.mp4' alt='Présentation de csszengarden par la Khan Academy, par Pamela Fox. Source : youtube.' type='video/mp4' />
+				</video>
+				<figcaption>Présentation de csszengarden par la Khan Academy, par Pamela Fox. Source : youtube.</figcaption>
+			</figure>
 		</div>
 
 		<div class="participation" id="zen-participation" role="article">

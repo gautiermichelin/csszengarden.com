@@ -29,6 +29,16 @@
 -->
 
 <body id="css-zen-garden">
+
+<nav class="top-menu">
+	<ul>
+		<li><a href='/'><img src="https://pbs.twimg.com/profile_images/378800000150126955/88cf42bd19a9d7fd03e41710b5d76eb2_400x400.png" style="height:30px;position:relative;top:-7px;" /></a></li>
+		<li><a href='/pages/translations/'><?= $sidebar["zen-translations-text"] ?></li>
+		<li><a href='/pages/alldesigns/'><?= $sidebar["design-archives-viewall-text"] ?></a></li>
+		<li><a>Contact</a></li>
+	</ul>
+</nav>
+
 <div class="page-wrapper">
 
 	<section class="intro" id="zen-intro">
@@ -187,5 +197,27 @@
 <div class="extra1" role="presentation"></div><div class="extra2" role="presentation"></div><div class="extra3" role="presentation"></div>
 <div class="extra4" role="presentation"></div><div class="extra5" role="presentation"></div><div class="extra6" role="presentation"></div>
 
+<style>
+	body {
+		padding-top: 50px;
+	}
+	nav.top-menu {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 50px;
+		background: #fff;
+		border-bottom: 1px solid #ccc;
+		z-index: 100;
+	}
+	nav.top-menu ul {
+		list-style: none;
+	}
+	nav.top-menu ul li {
+		float: left;
+		margin: 0 10px;
+	}
+</style>
 </body>
 </html>

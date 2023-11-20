@@ -43,7 +43,7 @@
 					<a href="#zen-summary">Skip to content</a>
 				</li>
 				<li class="menu-item">
-					<a href="#block_settings">Skip to accessibility menu</a>
+					<a href="#block_accessibility">Skip to accessibility menu</a>
 				</li>
 				<li class="menu-item">
 					<a href="#top-menu">Skip to main menu</a>
@@ -131,10 +131,10 @@
 
 	<nav class="top-menu" id="top-menu">
 		<ul>
-			<li><a href='/'><img src="https://pbs.twimg.com/profile_images/378800000150126955/88cf42bd19a9d7fd03e41710b5d76eb2_400x400.png" style="height:30px;position:relative;top:-7px;" /></a></li>
-			<li><a href='/pages/translations/'><?= $sidebar["zen-translations-text"] ?></li>
-			<li><a href='/pages/alldesigns/'><?= $sidebar["design-archives-viewall-text"] ?></a></li>
-			<li><a>Contact</a></li>
+			<li><a href='/' title="Accueil"><img alt="Logo csszengarden" src="https://pbs.twimg.com/profile_images/378800000150126955/88cf42bd19a9d7fd03e41710b5d76eb2_400x400.png" style="height:30px;position:relative;top:-7px;" /></a></li>
+			<li><a href='/pages/translations/' title="<?= $sidebar["zen-translations-text"] ?>"><?= $sidebar["zen-translations-text"] ?></a></li>
+			<li><a href='/pages/alldesigns/' title="<?= $sidebar["design-archives-viewall-text"] ?>"><?= $sidebar["design-archives-viewall-text"] ?></a></li>
+			<li><a href="#top-menu" title="Contact">Contact</a></li>
 		</ul>
 	</nav>
 
@@ -155,7 +155,7 @@
 				<h3>En image</h3>
 				<p>
 				<figure>
-					<img src='/avant-apres-css.jpg' style='width:100%;' alt='En images, amazon 25 avant. hitek.fr, dossier spécial 25 ans.' />
+					<img src='/avant-apres-css.jpg' style='width:100%;' alt="Capture d'écran du site hitek.fr montrant l'évolution visuelle du site amazon en 25 ans." />
 					<figcaption>En images, amazon 25 avant. hitek.fr, dossier spécial 25 ans.</figcaption>
 				</figure>
 				</p>

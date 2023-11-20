@@ -132,9 +132,9 @@
 	<nav class="top-menu" id="top-menu">
 		<ul>
 			<li><a href='/' title="Accueil"><img alt="Logo csszengarden" src="https://pbs.twimg.com/profile_images/378800000150126955/88cf42bd19a9d7fd03e41710b5d76eb2_400x400.png" style="height:30px;position:relative;top:-7px;" /></a></li>
-			<li><a href='/pages/translations/' title="<?= $sidebar["zen-translations-text"] ?>"><?= $sidebar["zen-translations-text"] ?></a></li>
-			<li><a href='/pages/alldesigns/' title="<?= $sidebar["design-archives-viewall-text"] ?>"><?= $sidebar["design-archives-viewall-text"] ?></a></li>
-			<li><a href="#top-menu" title="Contact">Contact</a></li>
+			<li><a href='/pages/translations/'><?= $sidebar["zen-translations-text"] ?></a></li>
+			<li><a href='/pages/alldesigns/'><?= $sidebar["design-archives-viewall-text"] ?></a></li>
+			<li><a href="#top-menu">Contact</a></li>
 		</ul>
 	</nav>
 

@@ -168,7 +168,10 @@ button.font-settings span {
 	color:black;
 }
 .sidebar a {
-	color: #308433;
+    color: #000708;
+}
+.sidebar a:visited {
+	color: #000708;
 }
 @media only screen and (min-width: 1132px) {
 	.design-archives .viewall a, .design-archives a::before {

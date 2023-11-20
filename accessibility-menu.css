@@ -81,29 +81,29 @@ body.fsize70 {
 }
 @media only screen and (min-width: 1132px) {
 	body,p {
-		font-size:70%;
+		font-size:100%;
 	}
 	body.font-readable, body.font-readable p {
 		letter-spacing: .12em;
 		word-spacing: 0.16em;
 	}
 	body.fsize110, body.fsize110 p {
-		font-size:77%;
+		font-size:110%;
 	}
 	body.fsize120, body.fsize120 p {
-		font-size:84%;
+		font-size:120%;
 	}	
 	body.fsize130, body.fsize130 p {
-		font-size:91%;
+		font-size:130%;
 	}	
 	body.fsize90, body.fsize90 p {
-		font-size:69%;
+		font-size:90%;
 	}	
 	body.fsize80, body.fsize80 p {
-		font-size:62%;
+		font-size:80%;
 	}	
 	body.fsize70, body.fsize70 p {
-		font-size:55%;
+		font-size:70%;
 	}
 }	
 

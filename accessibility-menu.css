@@ -173,6 +173,9 @@ button.font-settings span {
 .sidebar a:visited {
 	color: #000708;
 }
+.design-selection li, .zen-resources li {
+	color: #000708;
+}
 @media only screen and (min-width: 1132px) {
 	.design-archives .viewall a, .design-archives a::before {
 		background: rgba(255,255,255,0.7);

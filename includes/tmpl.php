@@ -181,6 +181,27 @@
 				<figure>
 					<video controls style='width:100%'>
 						<source src='/video.mp4' alt='Présentation de csszengarden par la Khan Academy, par Pamela Fox. Source : youtube.' type='video/mp4' />
+						<track
+    label="English"
+    kind="subtitles"
+    srclang="en"
+    src="/video_en.vtt"
+    default />
+  <track
+    label="Deutsch"
+    kind="subtitles"
+    srclang="de"
+    src="/video_de.vtt" />
+  <track
+    label="Español"
+    kind="subtitles"
+    srclang="es"
+    src="/video_es.vtt" />
+	<track
+    label="Français"
+    kind="subtitles"
+    srclang="fr"
+    src="/video_fr.vtt" />	
 					</video>
 					<figcaption>Présentation de csszengarden par la Khan Academy, par Pamela Fox. Source : youtube.</figcaption>
 				</figure>

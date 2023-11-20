@@ -1,0 +1,105 @@
+WEBVTT
+
+00:00:00.280 --> 00:00:02.637
+Maintenant que vous avez vu une tonne de HTML,
+
+00:00:02.637 --> 00:00:05.704
+la suite complète de ce cours va traiter de CSS,
+
+00:00:05.704 --> 00:00:07.828
+et tout ce que vous pouvez faire en CSS.
+
+00:00:07.828 --> 00:00:10.078
+Pour vous donner envie et pour vous faire rester,
+
+00:00:10.078 --> 00:00:12.317
+je veux vous montrer un des meilleurs exemples
+
+00:00:12.317 --> 00:00:14.176
+de tout ce qu'on peut faire.
+
+00:00:14.176 --> 00:00:18.021
+C'est une site qui s'appelle csszengarden.com
+
+00:00:18.021 --> 00:00:20.409
+Vous pouvez y jetez un œil par vous-même après.
+
+00:00:20.409 --> 00:00:23.920
+CSS Zen Garden est site simple avec des titres,
+un arrière-plan,
+
+00:00:23.920 --> 00:00:25.800
+du texte et tout ce qu'on voit habituellement.
+
+00:00:25.800 --> 00:00:27.893
+Mais ce qui est cool sur ce site,
+
+00:00:27.893 --> 00:00:31.307
+c'est que c'est une collection de modèles
+de mise en forme de personnes
+
+00:00:31.307 --> 00:00:36.307
+qui prennent exactement le même HTML
+et modifie seulement le CSS
+
+00:00:37.837 --> 00:00:42.483
+pour voir jusqu'où on peut aller, juste avec du CSS.
+
+00:00:42.483 --> 00:00:43.498
+Laissez-moi vous montrer.
+
+00:00:44.449 --> 00:00:45.682
+En voici un autre.
+
+00:00:45.682 --> 00:00:49.282
+Rappelez-vous, c'est exactement le même HTML
+
+00:00:49.282 --> 00:00:51.404
+que vous avez vu dans la page précédente.
+
+00:00:51.404 --> 00:00:54.120
+La seule différence est le CSS.
+
+00:00:55.003 --> 00:00:56.421
+En voici un autre.
+
+00:00:56.421 --> 00:00:58.418
+Il n'y a pas que les couleurs qui changent,
+
+00:00:58.418 --> 00:01:01.759
+mais aussi la disposition des éléments de la page
+qui se fait dans un autre ordre.
+
+00:01:02.542 --> 00:01:04.887
+Celui-ci donne un rendu vraiment différent.
+
+00:01:04.887 --> 00:01:07.708
+Ça ressemble à un paysage urbain avec ce titre
+
+00:01:07.708 --> 00:01:11.089
+qui descend ici, et il y a les mérites ici,
+
+00:01:11.089 --> 00:01:16.089
+et ouah, c'est animé ! Tout ça, juste en CSS.
+
+00:01:16.608 --> 00:01:19.059
+Ce n'est peut-être pas du CSS que vous connaissez déjà
+
+00:01:19.059 --> 00:01:20.618
+mais si vous continuez,
+
+00:01:20.618 --> 00:01:23.181
+tout cela sera disponible, à portée de vos doigts.
+
+00:01:23.181 --> 00:01:24.516
+Si vous fournissez suffisamment de travail,
+
+00:01:24.516 --> 00:01:26.176
+vous serez capable de faire de magnifiques sites
+
+00:01:26.176 --> 00:01:29.225
+qui ressembleront exactement à ce à quoi vous voudrez qu'ils ressemblent.
+
+00:01:29.225 --> 00:01:30.191
+Continuez !
+

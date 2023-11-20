@@ -176,6 +176,10 @@ button.font-settings span {
 .design-selection li, .zen-resources li {
 	color: #000708;
 }
+nav.top-menu a {
+	color:black;
+}
+
 @media only screen and (min-width: 1132px) {
 	.design-archives .viewall a, .design-archives a::before {
 		background: rgba(255,255,255,0.7);
